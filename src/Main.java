@@ -99,6 +99,6 @@ public class Main {
         float differenceKristina = kristinaUp * 12 - kristina * 12;
         System.out.println("Маша теперь получает " + mashaUp + " рублей(рубля). Годовой доход вырос на " + differenceMasha + " рублей(рубля)");
         System.out.println("Денис теперь получает " + denisUp + " рублей(рубля). Годовой доход вырос на " + differenceDenis + " рублей(рубля)");
-        System.out.println("Кристина теперь получает " + kristinaUp + " рублей(рубля). Годовой доход вырос на " + differenceKristina + " рублей(рубля)");
+        System.out.println("Кристина теперь получает " + kristinaUp + " рублей(рубля). Годовой доход вырос на " + differenceKristina + " рублей(рубля).");
     }
     }
